@@ -1,9 +1,26 @@
-#upperline{
-    background-color: wheat;
-    width: 100%;
-    height: 50px;
-    
+body{
+    background-image: url(./background_image_jpg.jpg);
+    background-size: cover;
+    color: white;
 }
-header{
-display: inline-block;
+#red{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
 }
+#yellow{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+#green{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:green;
+}
+/* #upperline{
+    display: inline;
+} */
