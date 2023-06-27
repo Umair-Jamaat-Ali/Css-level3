@@ -3,24 +3,37 @@ body{
     background-size: cover;
     color: white;
 }
+#upperline{
+    background-color: wheat;
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+/* #plussing{
+    background-color: cornflowerblue;
+    width: 15px;
+    height: 15px;
+    align-items: end;
+} */
 #red{
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color: red;
+    margin: 10px;
 }
 #yellow{
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color: yellow;
+    margin: 10px;
 }
 #green{
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color:green;
+    margin: 10px;
 }
-/* #upperline{
-    display: inline;
-} */
+
